@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: Tests.TestUnitTestingPOC
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 14.917 sec <<< FAILURE! - in Tests.TestUnitTestingPOC
+user_creates_token_and_Validate_Part_Details(XrayTestReporter)  Time elapsed: 10.961 sec
+create_newPart_Validate_and_delete()  Time elapsed: 3.23 sec  <<< FAILURE!
+java.lang.AssertionError
+	at Tests.TestUnitTestingPOC.create_newPart_Validate_and_delete(TestUnitTestingPOC.java:48)
+
